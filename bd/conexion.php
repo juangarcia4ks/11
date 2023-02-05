@@ -3,8 +3,8 @@
      public static function Conectar(){
          define('servidor','mariadb.csn.svc.cluster.local');
          define('nombre_bd','sampledb');
-         define('usuario','userRCU');
-         define('password','iDhkh1l3dpbn72VN');         
+         define('usuario','userVPC');
+         define('password','lyEH1kUHyFWySals');         
          $opciones = array(PDO::MYSQL_ATTR_INIT_COMMAND => 'SET NAMES utf8');
          
          try{
