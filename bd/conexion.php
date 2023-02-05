@@ -1,7 +1,7 @@
 <?php
  class Conexion{
      public static function Conectar(){
-         define('servidor','mariadb.csn.svc.cluster.local');
+         define('servidor','mysqldb.juan-garcia-dev.svc.cluster.local');
          define('nombre_bd','sampledb');
          define('usuario','userVPC');
          define('password','lyEH1kUHyFWySals');         
