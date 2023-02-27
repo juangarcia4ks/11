@@ -1,10 +1,10 @@
 <?php
  class Conexion{
      public static function Conectar(){
-         define('servidor','mysqldb.juan-garcia-dev.svc.cluster.local');
+         define('servidor','mysql.svc.cluster.local');
          define('nombre_bd','sampledb');
-         define('usuario','userVPC');
-         define('password','lyEH1kUHyFWySals');         
+         define('usuario','root');
+         define('password','eWTPWNEmXNbmXmbb');         
          $opciones = array(PDO::MYSQL_ATTR_INIT_COMMAND => 'SET NAMES utf8');
          
          try{
