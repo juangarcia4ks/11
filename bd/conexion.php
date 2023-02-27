@@ -1,7 +1,7 @@
 <?php
  class Conexion{
      public static function Conectar(){
-         define('servidor','mysql.svc.cluster.local');
+         define('servidor','mysql.csn.svc.cluster.local');
          define('nombre_bd','sampledb');
          define('usuario','root');
          define('password','eWTPWNEmXNbmXmbb');         
