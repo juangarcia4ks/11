@@ -2,7 +2,7 @@
 session_start();
 
 if($_SESSION["s_usuario"] === null){
-    header("Location: ../index.php");
+    header("Location: https://csn-login.4ks.online");
 }
 
 ?>
