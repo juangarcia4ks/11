@@ -55,7 +55,48 @@
                          dado que su liberación representaría beneficios substanciales a competidores de Csn Cooperativa que ofrezcan servicios similares o información de nuestros clientes,
 
                          por lo que no debe ser reproducido o transmitido sin la autorización expresa y por escrito de Csn Cooperativa..</p>
-
+                            <div class="card">
+                              <img src="jeans3.jpg" alt="Denim Jeans" style="width:100%">
+                              <h1>Tailored Jeans</h1>
+                              <p class="price">$19.99</p>
+                              <p>Some text about the jeans..</p>
+                              <p><button>Add to Cart</button></p>
+                            </div>
+                                                    <div class="card">
+                              <img src="jeans3.jpg" alt="Denim Jeans" style="width:100%">
+                              <h1>Tailored Jeans</h1>
+                              <p class="price">$19.99</p>
+                              <p>Some text about the jeans..</p>
+                              <p><button>Add to Cart</button></p>
+                            </div>
+                                                    <div class="card">
+                              <img src="jeans3.jpg" alt="Denim Jeans" style="width:100%">
+                              <h1>Tailored Jeans</h1>
+                              <p class="price">$19.99</p>
+                              <p>Some text about the jeans..</p>
+                              <p><button>Add to Cart</button></p>
+                            </div>
+                                                    <div class="card">
+                              <img src="jeans3.jpg" alt="Denim Jeans" style="width:100%">
+                              <h1>Tailored Jeans</h1>
+                              <p class="price">$19.99</p>
+                              <p>Some text about the jeans..</p>
+                              <p><button>Add to Cart</button></p>
+                            </div>
+                                                    <div class="card">
+                              <img src="jeans3.jpg" alt="Denim Jeans" style="width:100%">
+                              <h1>Tailored Jeans</h1>
+                              <p class="price">$19.99</p>
+                              <p>Some text about the jeans..</p>
+                              <p><button>Add to Cart</button></p>
+                            </div>
+                                                    <div class="card">
+                              <img src="jeans3.jpg" alt="Denim Jeans" style="width:100%">
+                              <h1>Tailored Jeans</h1>
+                              <p class="price">$19.99</p>
+                              <p>Some text about the jeans..</p>
+                              <p><button>Add to Cart</button></p>
+                            </div>
                       <hr class="my-4">          
 
                       <p class="lead text-center">PorFavor Seleciona de la lista en el menu izquierdo la aplicacion que este disponible
