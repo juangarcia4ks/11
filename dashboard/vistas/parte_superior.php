@@ -156,19 +156,19 @@ if($_SESSION["s_usuario"] === null){
 
             <h6 class="collapse-header">Aplicaciones Disponibles:</h6>
 
-            <a class="collapse-item" href="https://app1-csn.apps.oc.4ks.global/">App demo1</a>
+            <a class="collapse-item" href="https://apps1.csn.svc.cluster.local:8443">App demo1</a>
 
-            <a class="collapse-item" href="http://app2-csn.apps.oc.4ks.global/">App demo2</a>
+            <a class="collapse-item" href="https://apps2.csn.svc.cluster.local:8443">App demo2</a>
 
-            <a class="collapse-item" href="http://app3-csn.apps.oc.4ks.global/">App demo3</a>
+            <a class="collapse-item" href="https://apps3.csn.svc.cluster.local:8443">App demo3</a>
 
-            <a class="collapse-item" href="http://app4-csn.apps.oc.4ks.global/">App demo4</a>
+            <a class="collapse-item" href="https://apps4.csn.svc.cluster.local:8443">App demo4</a>
 
-            <a class="collapse-item" href="http://app5-csn.apps.oc.4ks.global/">App demo5</a>
+            <a class="collapse-item" href="https://apps5.csn.svc.cluster.local:8443">App demo5</a>
 
-            <a class="collapse-item" href="http://app6-csn.apps.oc.4ks.global/">App demo6</a>
+            <a class="collapse-item" href="https://apps6.csn.svc.cluster.local:8443">App demo6</a>
 
-            <a class="collapse-item" href="http://app7-csn.apps.oc.4ks.global/">App demo7</a>
+            <a class="collapse-item" href="https://apps7.csn.svc.cluster.local:8443">App demo7</a>
 
             
 
